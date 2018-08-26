@@ -2,6 +2,13 @@
   <img src='https://i.imgur.com/5fgTysV.jpg' alt='Tetrahedron Logo'/>
 </p>
 
+<p align="center">
+  <a href="https://spectrum.chat/tetrahedron">
+    <img src="https://withspectrum.github.io/badge/badge.svg" alt="Join the community on Spectrum">
+  </a>
+</p>
+
+
 # Tetrahedron
 
 Tetrahedron is a React UI library that is built to be as unopinionated and flexible as possible.
